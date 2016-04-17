@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EnCuotas</string>
+    <string name="inflation">Inflación anual:</string>
+    <string name="share_number">Cantidad de cuotas:</string>
+    <string name="price">Precio:</string>
+    <string name="calculate_button">Calcular</string>
+    <string name="in_shares">Valor total en cuotas:</string>
+    <string name="in_cash">Valor total en efectivo:</string>
+    <string name="no_price_warning">Ingresa un precio.</string>
+    <string name="zero_price_warning">El precio no puede ser cero.</string>
+    <string name="invalid_number_warning">Ingresa números con puntos en lugar de comas.</string>
+    <string name="no_connection_warning">La conexión con el servicio de cotización falló.</string>
+    <string name="error_warning">¡Ha ocurrido un error!</string>
+    <string name="usd_value">Cotización dólar:</string>
+    <string name="usd_value_title">Valor en dólares:</string>
+
+</resources>
