@@ -20,8 +20,7 @@
         <TextView
             android:id="@+id/fragment_usd_title"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textStyle="bold"/>
+            android:layout_height="wrap_content"/>
         <TextView
             android:id="@+id/fragment_usd_value"
             android:layout_width="wrap_content"
